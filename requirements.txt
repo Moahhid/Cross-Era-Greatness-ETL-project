@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+plotly.express
+shiny.express
+numpy
+datetime
+shinywidgets
+pathlib
